@@ -5,6 +5,7 @@ php artisan key:generate
 php artisan serve
 
 Penggunaan Api:
+https:://localhost:8000/ + 
 url = get('/');
 url = get('/show/{id}'
 url = post('/store',)
